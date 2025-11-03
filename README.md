@@ -109,10 +109,9 @@ Para evitar cobranças, todos os recursos foram excluídos na ordem correta:
 4.  Excluir o **Security Group**.
 
 -----
-### 📊 Diagrama da Arquitetura Implementada e Imagens do Laboratório:
+### 📊 Imagens do Laboratório:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="lab2.diagrama.png" alt="Diagrama da Arquitetura" width="300px">
     <img src="lab2.1.png" alt="Print do Servidor 1" width="300px">
     <img src="lab2.png" alt="Print do Servidor 2" width="300px">
 </div>
